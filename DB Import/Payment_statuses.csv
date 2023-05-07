@@ -1,0 +1,6 @@
+﻿id,payment_status_name,createdAt,updatedAt
+1,Waiting For Payment,2022-12-16 00:00:00,2022-12-16 00:00:00
+2,Waiting Admin Verification,2022-12-16 00:00:00,2022-12-16 00:00:00
+3,Payment Approved,2022-12-16 00:00:00,2022-12-16 00:00:00
+4,Payment Failed,2022-12-16 00:00:00,2022-12-16 00:00:00
+5,Payment Canceled,2022-12-16 00:00:00,2022-12-16 00:00:00

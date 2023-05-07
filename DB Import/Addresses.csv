@@ -1,0 +1,15 @@
+﻿id,createdAt,updatedAt,UserId,is_default,recipients_name,phone_number,address_labels,province,city,districts,full_address,latitude,longitude,provinceId,cityId
+1,2022-11-11 00:00:00,2022-11-11 00:00:00,,1,halo,123123131233,rumah,Banten,Kabupaten Tangerang,Cisoka,disana,-6.2697702,106.4330026,3,455
+111,2022-12-02 02:19:14,2022-12-02 02:19:14,,,plankton,2436823,rumah,Banten,Kabupaten Tangerang,Cisoka,bikini Bottom,-6.2697702,106.4330026,3,455
+150,2022-12-17 01:06:33,2022-12-17 01:06:33,,1,Joel Manisali,"085213391153",Rumah,Banten,Kabupaten Tangerang,Panongan,Serdang Asri 2 ,-6.2826406,106.5271588,3,455
+161,2023-01-02 11:08:49,2023-01-09 16:36:50,109,"0",Joel tatbe,"085213391155",Rumah,Nusa Tenggara Timur (NTT),undefined undefined,Moru,Alor bro afakah bisa bro,44.7104199,2.1981937,"0","0"
+162,2023-01-03 03:18:13,2023-01-09 16:36:51,109,"0",bug gk jeals ygy,"085213391153",Rumah,Nusa Tenggara Timur (NTT),Kabupaten Alor,Panongan,Entah dimanaaaa afakah berubah,53.16667,-1,23,13
+163,2023-01-03 03:35:06,2023-01-03 03:35:06,99,1,Shopedia,87293874923,Rumah,Banten,Kabupaten Tangerang,Cisoka,Disanaaaa,-6.2697702,106.4330026,3,455
+165,2023-01-07 17:15:57,2023-01-08 14:24:57,109,"0",Joel Manisali coba,"085213391153",Rumah,Banten,Kabupaten Tangerang,Panongan,Alor jauh afakah berubah,-6.2826406,106.5271588,3,455
+166,2023-01-10 13:25:19,2023-02-04 10:49:22,109,"0",Joel Manisali,"085213391153",Rumah,Banten,Kabupaten Tangerang,Panongan,disana,-6.2826406,106.5271588,3,455
+167,2023-01-17 13:10:25,2023-01-17 13:10:25,163,1,fikri,81293111789,home,DKI Jakarta,Kota Jakarta Barat,jakbar,jakbar,-6.1676,106.7673,6,151
+168,2023-01-17 13:26:49,2023-01-17 13:26:49,165,1,Bagus,81278732817,Rumah,DKI Jakarta,Kota Jakarta Barat,Surya Mandala,"Sunrise Garden Complex No. 8-C,Jl. Surya Mandala I,Jakarta Barat Indonesia",-6.1676,106.7673,6,151
+170,2023-01-18 07:53:05,2023-01-18 07:53:05,158,1,test,"01241241242",rumah,DKI Jakarta,Kota Jakarta Barat,Kalideres,Kalideresss,-6.1676,106.7673,6,151
+171,2023-01-18 11:38:30,2023-02-04 15:21:23,161,"0",Andika Ridho Baskoro,"0852133911533",Rumah,Bangka Belitung,Kabupaten Bangka,Juanda,Jl Soekarno hatta,-2.25,106,2,27
+173,2023-02-04 10:49:17,2023-02-04 10:49:22,109,1,Bot Testing,"08123123123",Home,Sumatera Utara,Kota Binjai,Binjai Kota,Jl. Jendral Sudirman,3.6063964,98.4899865,34,70
+174,2023-02-04 15:21:19,2023-02-04 15:21:23,161,1,Ferdy Sambo,"085213391153",Rumah,DKI Jakarta,Kota Jakarta Selatan,Pancoran,Duren 3,-6.266,106.8135,6,153

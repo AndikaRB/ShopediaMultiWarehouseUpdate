@@ -1,0 +1,12 @@
+Github FP
+https://github.com/Servond/jcwd220203
+
+Jira FP
+https://bryank.atlassian.net/jira/software/projects/G3/boards/3
+
+react-slick package
+npm install react-slick --save
+npm install slick-carousel
+
+React Frame Motion
+npm install framer-motion

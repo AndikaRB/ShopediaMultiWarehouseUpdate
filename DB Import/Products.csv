@@ -1,0 +1,412 @@
+﻿id,createdAt,updatedAt,CategoryId,product_name,description,price,product_weight
+1,2022-12-05 00:00:00,2023-01-17 14:17:57,4,MSI GeForce RTX 4080 16GB GDDR6X - Ventus 3X OC 16G,"SPECIFICATIONS
+Model Name GeForce RTX™ 4080 16GB GAMING X TRIO
+Graphics Processing Unit NVIDIA® GeForce RTX™ 4080 16GB
+Interface PCI Express® Gen 4
+Core Clocks
+Extreme Performance: 2610 MHz (MSI
+Center)
+Boost: 2595 MHz (GAMING & SILENT Mode)
+CUDA® CORES 9728 Units
+Memory Speed 22.4 Gbps
+Memory 16GB GDDR6X
+Memory Bus 256-bit
+Output
+DisplayPort x 3 (v1.4a)
+HDMI™ x 1 (Supports 4K@120Hz HDR,
+8K@60Hz HDR, and Variable Refresh Rate as
+specified in HDMI 2.1a)
+HDCP Support Y
+Power consumption 320 W
+Power connectors 16-pin x 1
+Recommended PSU 850 W (Min.750W)",24621000,2500
+2,2022-12-05 00:00:00,2023-01-17 14:16:17,5,Gskill DDR5 Trident Z5 RGB PC41600 (2x16GB),"SPECIFICATIONS
+Memory Type
+DDR5
+Capacity
+32GB (16GBx2)
+Multi-Channel Kit
+Dual Channel Kit
+Tested Speed (XMP/EXPO)
+5200 MT/s
+Tested Latency (XMP/EXPO)
+40-40-40-83
+Tested Voltage (XMP/EXPO)
+1.10V
+Registered/Unbuffered
+Unbuffered
+Error Checking
+Non-ECC
+SPD Speed (Default)
+4800 MT/s
+SPD Voltage (Default)
+1.10V",3008000,100
+3,2022-12-07 04:15:00,2023-01-17 14:14:53,6,Antec T120 Chromatic Air Cooler - All Intel & AMD Socket,"SPECIFICATIONS
+Product Dimension
+130 x 82mm (WH)
+Fan
+Dimensions 120*120*25mm
+Type RGB Fan
+Speed 1500 ± 10%
+Airflow 60 CFM max.
+Noise 26db (A)
+Connector 3 pin
+Rated Voltage
+12VDC
+Socket Compatibility
+Intel LGA 1151 / 1150 / 1155 / 1156 /3366/LGA1200
+AMD AM4/AM3+ / AM3 / AM2+ /AM2 / FM2+ / FM2 / FM1",150000,1500
+4,2022-12-07 04:15:00,2023-01-17 14:18:44,7,Processor Intel Core i7 13700KF 3.4GHz Up To 5.4GHz [Box] LGA 1700,"General
+CPU Model Intel Core i7-13700KF (13th Gen)
+CPU Socket LGA 1700
+Manufacturing Process 10 nm
+Maximum CPU Configuration 1S
+Maximum Number of PCIe Lanes 16 (Revision 5.0)
+4 (Revision 4.0)
+Unlocked Yes
+Performance
+Number of Cores 16 (8 x P-Cores + 8 x E-Cores)
+Number of Threads 24
+Base Clock Speed P-Core: 3.4 GHz
+E-Core: 2.5 GHz
+Maximum Boost Speed P-Core Turbo: 5.3 GHz
+E-Core Turbo: 4.2 GHz
+L3 Cache 30 MB
+Memory Support
+Maximum Capacity 128 GB
+Memory Support DDR5 5600 MHz
+DDR4 3200 MHz
+ECC Memory No
+Channel Architecture Dual Channel
+Optane Memory Support Yes
+Power
+Thermal Design Power (TDP) 125 W",7490000,500
+9,2023-01-07 08:54:30,2023-01-17 11:37:13,7,AMD Ryzen 5 4600G 3.7Ghz Up To 4.2Ghz Cache 8MB 65W AM4 [BOX],"# of CPU Cores 6
+# of Threads 12
+Max. Boost Clock Up to 4.2GHz
+Base Clock 3.7GHz
+L1 Cache 384KB
+L2 Cache 3MB
+L3 Cache 8MB
+Default TDP 65W
+AMD Configurable TDP (cTDP) 45-65W
+Processor Technology for CPU Cores TSMC 7nm FinFET
+Unlocked for Overclocking Yes
+CPU Socket AM4
+Max. Operating Temperature (Tjmax) 95°C",1743000,500
+10,2023-01-07 16:45:24,2023-01-17 11:39:08,14,Rexus Daxa M64 Ultimate Wireless Mechanical Keyboard ,"SPECIFICATIONS
+Layout : 64 Tombol
+Lampu Latar : LED RGB South-Facing
+Bahan Case : ABS
+Keycaps : Cherry Profile 2-Tone, PBT Dye Sub
+Dukungan Switch : Hotswap (5-Pin & 3-Pin)
+Switch : Gateron Pro Milky Yellow / Red, JWK T1 (Blue)
+Stabilizer : Pre-Lubed
+Konektivitas : Kabel, Nirkabel 2.4G, Bluetooth 5.0
+Baterai : 2500Mah
+Daya : 3.7V-5V / 300Ma
+Kompatibilitas : WIN / MAC
+Ukuran : 290 x 110 x 40mm",959000,1200
+11,2023-01-07 16:47:59,2023-01-17 11:35:37,12,DBE GM500 White Gaming Headphone,"SPECIFICATIONS
+Headphone Driver : 50 mm Driver
+Sensitivity : 118 dB +- 3 dB
+Impedance : 32 Ohm
+Freq Response ; 20 - 20 kHz
+Mic Sensitivity : -42 dB +- 3 dB
+Mic Size : 4.0*1.5 MMz
+Mic Impedance : 2.2K Ohm",454000,1000
+12,2023-01-09 18:11:36,2023-01-17 11:33:00,9,"Casing Darkflash C285 ATX, mATX - White","Specifications
+Model Name : C285
+Steel Thickness : 0.6mm SPCC
+Case Size :420*265*410mm
+Motherboard :ATX / M-ATX / ITX
+HDD / SSD :1 / 2
+Expansion Slots :7
+Max. VGA Length :410mm(Max.)
+Max. CPU Height :160mm(Max.)
+Power Supply :Bottom, 240mm
+Radiator System :Side : 280mm
+Top: 360mm
+Fan Support :Top: 120mm*3/ 140mm*2
+Rear : 120mm*1
+Side : 120mm*2/ 140mm*2
+Bottom : 120mm*3
+I/O : USB3.0*1/ USB2.0*2/ HD Audio/Power/Reset
+Left Panel :Tempered Glass",775000,17000
+15,2023-01-17 10:28:29,2023-01-17 10:28:29,13,"AOC 23.8"" 24B2XDA FHD IPS 75Hz Frameless Monitor","AOC 23.8"" 24B2XDA FHD IPS 75Hz Frameless Monitor
+Display information
+Screen size (inch)
+23.8
+Screen size (cm)
+60.452
+Flat / Curved
+Flat
+Display hardness
+3H
+Panel treatment
+Antiglare (AG)
+Panel resolution
+1920x1080
+Resolution name
+FHD
+Aspect ratio
+16:9
+Panel type
+IPS
+Brightness in nits
+250
+Backlight type
+WLED
+Refresh rate
+75 Hz
+Response time GtG
+4 ms
+Static contrast ratio
+1000:1
+Dynamic contrast ratio
+20M:1
+Viewing angle (CR10)
+178/178
+Display colours
+16.7 Million",1724000,10000
+16,2023-01-17 10:32:03,2023-01-17 12:13:34,8,ADATA SSD SU650 120GB SATA III ( RW Up to 520 450MBs ),"SKU: 153772
+Product Name: ADATA SSD SU650 120GB SATA III ( R/W Up to 520 / 450MB/s ) ASU650SS-120GT-R
+Brand: ADATA
+Series: SU650
+Form Factor: 2.5 inch
+Capacity: 120GB
+Memory Components: SLC
+Interface: SATA 6Gb/s
+Max Sequential Read: Up to 520MB/s
+Max Sequential Write: Up to 320mb/s
+Warranty: 3 Years",188000,101
+17,2023-01-17 11:42:55,2023-01-17 11:42:55,10,WDC 1TB SATA3 64MB - Caviar Blue - WD10EZEX - Garansi 2 Th,"SKU : 138767
+Product Name : WDC 1TB SATA3 64MB - Blue - WD10EZEX - Garansi enterkomputer 2 Th
+Brand : WDC
+Series : WD Blue
+Capacity : 1TB
+Interface : SATA 6.0Gb/s
+RPM : 7200
+Cache : 64MB
+Form Factor : 3.5 Inch
+Warranty : 2 Tahun",653000,900
+18,2023-01-17 11:52:52,2023-01-17 11:52:52,15,ONEX GX3 Premium Quality Gaming Chair Kursi - Hitam,"Kondisi: Baru
+Berat Satuan: 31 kg
+Kategori: Kursi Gaming
+Etalase: Gaming Chair
+From the living room to the gaming room, plan the next world domination from the comfort of your gaming chair.
+
+PVC Faux Leather Fabric
+PVC leather fabric is very similar to PU leather fabric. Instead of polyurethane, PVC leather fabric is made by combining polyvinylchloride with stabilizers (to protect), plasticizers (to soften) and lubricants (to make flexible), and then applying to a base material
+
+• Cushions for head and back
+• Recline 135°
+• 2D armrests
+• Rocking function
+• Adjustable seat height
+• Strong Class 4 gas-lift
+• 5 Color combinations
+
+DESIGNED FOR COMFORT & PERFORMANCE
+PREMIUM GAMING SEATS ENGINEERED FOR PERFORMANCE.
+
+FULL RANGE OF MOTION
+90 to 135-degree tilt mechanism.
+
+DESIGNED FOR COMFORT
+High-density mould shaping foam.
+
+2D ARMREST PIVOT
+2D Pivoting adjustable left & right.
+
+2D ARMREST HEIGHT
+2D height adjustable up & down.
+
+C4 HYDRAULIC PISTONS
+Class 4 providing long term stability.
+
+65mm COVERED WHEELS
+Smooth movement in all directions.
+
+Overall dimension (W*D*H) 68 x 70 x 125-135 cm
+Seat dimension (W*D*H) 53 x 54 x 50 - 58 cm
+Backrest dimension (W*D) 56 x 84 cm
+
+Cover material Leatherette
+Weight Capacity
+Product Weight 21 kg/46.3lbs
+Packing size 23 kg",2350000,31000
+19,2023-01-17 11:55:53,2023-01-17 11:55:53,16,NOTEBOOK ASUS K513EA OLED352 i3 1115G4 4GB 512GB OLED FHD WIN11+OHS,"Kondisi: Baru
+Berat Satuan: 6 kg
+Kategori: Notebook
+Etalase: LAPTOP ASUS
+100% original, baru, segel dan garansi resmi ASUS
+
+VivoBook Ultra 15 OLED (K513) (Intel® Core™ i3-1115G4/4GB/512GB SSD/Windows 11 Home /Intel® UHD Graphics) - Indie Black
+
+Processor Intel® Core™ i3-1115G4 Processor 3.0 GHz (6M Cache, up to 4.1 GHz, 2 cores)
+OS Windows 11 Home
+Panel 15.6-inch LED Backlit FHD (1920 x 1080) OLED 16:9 aspect ratio glossy panel
+Graphic Intel® UHD Graphics
+Memory 4GB DDR4 on board
+Storage ""512GB M.2 NVMe™ PCIe® 3.0 SSD
+HDD housing for storage expansion""
+Ports ""1x USB 3.2 Gen 1 Type-A
+1x USB 3.2 Gen 1 Type-C
+2x USB 2.0 Type-A//1x HDMI 1.4
+1x Headphone out//Micro SD card reader
+Micro SD 4.0 card reader""
+
+
+Keyboard Backlit Chiclet Keyboard with Num-key
+Camera 720p HD camera
+Battery 42WHrs, 3S1P, 3-cell Li-ion
+Power supply ø4.0, 65W AC Adapter, Output: 19V DC, 3.42A, 65W, Input: 100~240V AC 50/60Hz universal
+Touchpad feature 0
+Connectivity Wi-Fi 6(802.11ax)+Bluetooth 5.0 (Dual band) 2*2
+Weight 1.80 kg
+Dimension 35.90 x 23.50 x 1.79 ~ 1.79 cm
+Expansion slot ""1x DDR4 SO-DIMM slot
+1x M.2 2280 PCIe 3.0x2
+1x STD 2.5” SATA HDD""
+Software & Security Office Home and Student 2021 included
+Accessories Backpack
+",7950000,6000
+20,2023-01-17 11:58:04,2023-01-17 12:39:10,17,Motherboard ASUS PRIME H110M-K LGA1151 INTEL H110,"Intel Socket 1151 for 7th/6th Generation Core i7/Core i5/Core i3/Pentium/Celeron Processors
+Supports Intel 14 nm CPU
+Supports Intel Turbo Boost Technology 2.0
+* The Intel Turbo Boost Technology 2.0 support depends on the CPU types.
+
+Chipset
+Intel H110
+
+Memory
+2 x DIMM, Max. 32GB, DDR4 2400/2133 MHz Non-ECC, Un-buffered Memory *
+Dual Channel Memory Architecture
+Supports Intel Extreme Memory Profile (XMP)
+* Hyper DIMM support is subject to the physical characteristics of individual CPUs.
+* The maximum memory frequency supported varies by processor.
+* Due to Intel chipset limitation, DDR4 2400MHz memory frequency is only supported by 7th Generation Intel processors. Higher memory modules will run at the maximum transfer rate of DDR4 2400MHz.
+** Due to Intel chipset limitation, DDR4 2133MHz and higher memory modules on 6th Generation Intel processors will run at the maximum transfer rate of DDR4 2133MHz.",800000,1000
+21,2023-01-17 11:59:53,2023-01-17 11:59:53,20,"FlashDisk Dual drive OTG USB Type C 3.1 Flash Drive 32GB, 64GB, 128GB - 64 gb","Kondisi: Baru
+Berat Satuan: 25 g
+Kategori: USB Flash Disk
+Etalase: Best sale
+FlashDisk Dual drive OTG USB Type C 3.1 Flash Drive 32GB, 64GB, 128GB
+
+Cara Untuk cek harga: - Click ""kapasitas"" yang ingin diorder - Harga
+
+Ready Storage capacity: 32Gb, 64GB,128GB
+
+Ultra Dual USB Drive m3.1 32GB/64GB/128GB Hitam dan Biru Version
+- Mendukung ponsel Android terbaru - konektor USB Type c di 1 sisi dan USB 3.1 di sisi lainnya
+- kinerja high-speed USB 3.1 hingga 150MB/s untuk memindahkan file lebih cepat antara drive dan ke komputer
+- kompatibel dengan HP android yang support OTG Type c
+",89900,25
+22,2023-01-17 12:03:37,2023-01-17 12:53:11,21,Wacom Cintiq 16 Venus Pen Display Tablet Monitor Design DTK-1660 K1-C,"Wacom Cintiq 16 Venus Pen Display Tablet Monitor Design
+DTK-1660/K1-C
+
+Product Type Creative Pen Display
+Model Number DTK-1660
+Resolution 1920 x 1080 (Full HD)
+Display Size
+422 x 285 x 24.5mm
+16.6 x 11.2 x 1.0 in
+Display weight 1.9kg without optional stand
+Screen Size (Measured Diagonally)
+15.6 inch
+39.6 cm
+Technology a-Si Active Matrix TFT LCD (IPS)
+Displayable Colors (maximum) 16.7 million
+Aspect Ratio 16:9
+Viewing Angle 176/176 degree (typ) / 140/140 degree (min)
+Contrast Ratio 1000:1 (typ) / 600:1(min)
+Luminance 210 cd/m2 (typ) (including glass)
+White luminance (center) 180 cd/m2 (min)
+Response 25 ms
+Active Area 344.16 x 193.59mm
+13.6 x 7.6 in
+Color Gamut 72% NTSC (CIE1931) typical
+Color Temperature/Custom Color
+Custom RGB
+Graphics Input None
+Multi-touch No
+Pen Wacom Pro Pen 2
+Pressure Levels 8192 levels (pen and eraser)",10482000,2000
+23,2023-01-17 12:05:58,2023-01-17 12:53:33,22,"Apple iPad 9 9th Gen 2021 - 64GB, Silver","Kondisi: Baru
+Berat Satuan: 1,5 kg
+Kategori: iOS
+Etalase: iPad
+Katalog: Apple iPad 9
+READY STOCK
+
+Memori : 64 GB & 256 GB
+Warna : Space Grey - Silver
+Konektitas : WIFI Only
+
+In the Box
+iPad
+Lightning to USB-C Cable
+20W USB-C Power Adapter
+
+Chip
+A13 Bionic chip with 64-bit architecture
+Neural Engine
+
+Display:
+Retina display
+10.2-inch (diagonal) LED-backlit Multi-Touch display with IPS technology
+2160-by-1620-pixel resolution at 264 pixels per inch (ppi)
+True Tone display
+500 nits brightness
+Fingerprint-resistant oleophobic coating
+Supports Apple Pencil (1st generation)
+",5132000,1500
+24,2023-01-17 12:08:05,2023-01-17 12:12:23,23,SANDISK SD Card Camera SDHC 32GB CLASS 10 Speed 120Mbps - SDHC-32GB,"Kondisi: Baru
+Berat Satuan: 100 g
+Kategori: SD Card
+Etalase: Memory Card SD Card dan USB Flashdrive
+
+SANDISK SD Card SDHC 32GB / 64GB CLASS 10 Speed 120Mbps Ultra Series memory card sd card sdhc 32GB / 64GB CLASS 10 Speed 120Mbps
+
+Transfer Data Lebih Kencang Hingga 120 Mbps
+Kartu Memori Micro SD Card Terbaik Sandisk Ultra Class 10 memudahkan Anda untuk simpan foto dan video resolusi tinggi. Kecepatan transfer tinggi hingga 120 MB/s memudahkan Anda untuk memindahkan data berukuran besar seperti foto atau video resolusi tinggi ke PC. Kecepatan SD Card yang cukup tinggi tersebut juga membuatnya cocok digunakan di kamera Digital atau Camcorder Anda. SD Card terbaik Sandisk Ultra Class 10 hadir dalam pilihan kapasitas hingga 64 GB, artinya Anda mempunyai pilihan penyimpanan yang lebih banyak untuk menyimpan semua koleksi foto dan video tanpa harus terlalu sering memindahkan data ke PC.
+",105900,100
+25,2023-01-17 12:56:04,2023-01-17 12:56:04,11,TP - Link 150 Mbps Wireless N PCI Express Adapter - TL-WN781ND,"#128650 
+#TP - Link 150 Mbps Wireless N PCI Express Adapter - TL-WN781ND",106000,250
+26,2023-01-17 13:08:25,2023-01-17 14:20:40,14,1STPLAYER Gaming PSU DK5.0 500W(80Plus Bronze) - 3 Years,"SKU : 155943
+Product Name : 1STPLAYER Gaming PSU DK5.0 500W - PS-500AX (80Plus Bronze) - 3 Years Warranty Replacement
+Brand : 1STPLAYER
+Series : DK
+Wattage : 500W
+80 PLUS Certification : 80 Plus Bronze
+Max. Efficiency : Up to 90%
+Cooling : Fan
+Modular : No
+Modularity : No
+Motherboard Connector : 20+4-Pin
+Connectors : 1x (8/4 pins) CPU +12V
+2x 4Pin Molex
+2x (8/6 pins) PCI-E Power
+6x SATA Power
+Form Factor : ATX
+Warranty : 3 Years",480000,2400
+28,2023-01-17 14:29:33,2023-01-17 14:29:33,4,Gigabyte GeForce GTX 1650 4GB DDR5 OC Series - GV-N1650OC-4GD,"SKU : 160572
+Product Name : Gigabyte GeForce GTX 1650 4GB DDR5 OC Series - GV-N1650OC-4GD
+Brand : Gigabyte
+Interface : PCI-E 3.0 x 16
+GPU : GeForce GTX 1650
+Core Clock : 1710 MHz
+Memory Clock Speed : 8002 MHz
+Memory Size : 4 GB
+Memory Interface : 128 bit
+Memory Type : GDDR5
+DirectX : 12
+OpenGL : 4.6
+Stream Processors : 896
+Multi Display : 3 Displays
+Video Output Function : HDMI x2, DisplayPort
+Minimum Power Requipment : 300 Watt Pure Power or greater PSU
+Card Dimensions : L=191 W=112 H=36 mm
+Warranty : 3 Years",2540000,2500
+29,2023-01-18 01:10:26,2023-01-18 01:10:26,6,Fan Casing Standard 12CM,Fan Casing Standard 12CM,22000,150

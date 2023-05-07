@@ -1,0 +1,18 @@
+﻿id,username,email,password,phone_number,profile_picture,is_verify,createdAt,updatedAt,RoleId,WarehouseId
+99,Shopedia,shopedia.business@gmail.com,,,,1,2022-11-24 14:42:54,2022-11-24 14:42:54,1,
+109,jollean,trycatchjoe@gmail.com,$2b$05$QGUtYoa0X/Gsm0gZ6xTave6WpPA7RHBJ1LVHZxCEL2pI6oFseijl.,85213391153,PROFILE-1671987184234-396203739.jpeg,1,2022-11-26 05:18:59,2022-12-25 16:53:37,1,
+146,Akun Testing ,accbckend@gmail.com,$2b$05$.NAITyUPXSbzxTb.VqAoye595CKtQeBVwKH7voNJhUlFcpefqnidO,,,1,2023-01-09 13:47:40,2023-01-09 13:51:25,1,
+152,,chumbucket.library@gmail.com,,,,"0",2023-01-09 15:18:43,2023-01-09 15:18:43,1,
+155,,andikaridho06@gmail.com,,,,"0",2023-01-17 06:57:29,2023-01-17 06:57:29,1,
+158,bryank,karta.bryan@gmail.com,$2b$05$nVClOec0ztn9wQQ8gf0vTuW4Zin226ctZBKBFpQ5jB4mNikfHf7XO,,,1,2023-01-17 08:50:06,2023-01-17 13:38:37,3,
+159,joel,joellegifanimanisali@gmail.com,$2b$05$yLB.giiwPbGXuf9pxePLmOIeYeWnmO5HDrxkUDDaZ3Ptizx5gHixC,,,1,2023-01-17 09:05:12,2023-01-17 14:33:01,3,
+161,Andika Ridho B,andikarb06@gmail.com,$2b$05$ZijCzKHjo21AFrY1IsHN5uvi2mM.HSnzy0NPKAZRUtnk9rng.Xzdq,8577777775,PROFILE-1674046496750-107268443.jpeg,1,2023-01-17 11:39:40,2023-01-18 12:55:52,1,
+162,admin bandung,testdmo21@gmail.com,$2b$05$1vSmAKt5zDURKvsgXgHuZ.BQSvG8y.h/j/0um150bQ96Y6fkRuliu,812391117679,,1,2023-01-17 12:55:20,2023-01-17 13:54:01,2,16
+163,fikri,fikrifernanda11@gmail.com,$2b$05$NytH8.Sl64Qq.jrpLDLpduF7/ArIb.GrGQwj8bIRxrXpPxo/qKta.,81293111789,PROFILE-1674039376360-175400736.jpeg,1,2023-01-17 13:07:10,2023-01-18 10:56:16,1,
+165,bagusdp2011,bagusdp2011@gmail.com,$2b$05$09OP.YJClJC7Nn7x8i9elOyJu.qMYvItfDfEolvz/4Esf0QcwudvS,,,1,2023-01-17 13:25:05,2023-01-17 13:25:33,1,
+166,gusbaxd,gusbaxd@gmail.com,$2b$05$wnT5OCBeVQcJrhXh0p1QwuYM5sD9hJyI.NJUizb/ENirT3RQMirmK,,,1,2023-01-17 13:27:42,2023-01-17 13:28:12,3,
+167,Joe,kirajyamato12@gmail.com,$2b$05$aeRH1PHKwOw3GrQWpc41Ou0/VJfVJC/ggBeq1wmjJ67Cxh4ZU560C,,PROFILE-1674468303510-813347509.jpeg,1,2023-01-18 12:17:01,2023-01-23 10:05:03,1,
+168,joel,joellegifanimanisali@gmailal.com,$2b$05$JfFUlSCVOaJ/DBeujVeQMOUq5mc4L9AE7NYGLu8NfsU6my7CkzDN6,8521339115323,PROFILE_PICTURE-1674047085196-214236180.jpeg,1,2023-01-18 13:04:45,2023-01-18 13:04:45,2,14
+169,Joel Manisali,jmanisali46@gmail.com,,,,1,2023-01-24 12:49:13,2023-01-24 12:49:13,1,
+170,Permainan Bot,permainanbot@gmail.com,,,,1,2023-01-30 07:27:57,2023-01-30 07:27:57,1,
+171,Sulthana Safina,hi.itsafi@gmail.com,,,,1,2023-02-11 08:14:14,2023-02-11 08:14:14,1,
